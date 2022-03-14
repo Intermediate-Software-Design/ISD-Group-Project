@@ -1,0 +1,7 @@
+Please refer to "SE-Project.pdf" available under "Files" for the delieverable software artifacts. Here are additional clarification on the deliverables:
+
+1. Each functional requirement corresponds to one fully dressed use case.
+2. Each use case diagram can correspond to one or more use cases, depending on the complexity of each use case.
+3. Each conceptual class diagram can correspond to one or more use cases, depending on the complexity of each use case.
+4. Supplementary specifications are all about non-functional requirements.
+5. It is OK that the requirements described in documents are somewhat different from the requirements mentioned in the initial project presentation. I totally understand that you may need to improve or revise some of the requirements based on my feedback on the presentation. 
